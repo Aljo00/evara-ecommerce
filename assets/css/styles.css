@@ -1738,7 +1738,7 @@ table {
   }
 
   .header__top {
-    display: none;
+    display: block;
   }
 
   .nav {
